@@ -2,7 +2,7 @@
 Web Developer based in Adelaide, South Australia
 
 ## About
-I build for the web, focusing on clean code and thoughtful design. In my spare time design and print 3D projects and run the 3D printing workshop for [Makerspace Adelaide(https://makerspaceadelaide.org)] along with managing thier digital applications. 
+I build for the web, focusing on clean code and thoughtful design. In my spare time design and print 3D projects and run the 3D printing workshop for [Makerspace Adelaide](https://makerspaceadelaide.org) along with managing thier digital applications. 
 
 ## Developing with
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
